@@ -1,7 +1,7 @@
 <?php 
-    function psgpjg ($pjg,$lbr){
+    function psgpjg ($pjg, $lbr) {
         $luas = $pjg * $lbr;
-        echo "$luas <br>";
+        return $luas;
     }
     $bil1 = 5;
     $bil2 = 3;

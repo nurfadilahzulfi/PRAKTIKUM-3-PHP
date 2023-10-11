@@ -1,7 +1,7 @@
-<?php
+<?php 
     $nama[] = "Muhammad";
     $nama[] = "Faruq";
-    $nama[] = "Zakiuddin";
+    $nama[] = "Zakiuddin"; 
     echo "Hallo";
     echo "Isi array \$anak[0] adalah $nama[0]";
     echo "<br>";

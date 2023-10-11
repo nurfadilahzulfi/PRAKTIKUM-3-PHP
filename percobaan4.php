@@ -1,12 +1,12 @@
-<?php
-    $telpon["Farid"] = "5982345";
-    $telpon["Fikri"] = "7782345";
-    $telpon["Nida"]  = "4562345";
+<?php 
+    $telepon["Farid"] = "5982345";
+    $telepon["Fikri"] = "7782345";
+    $telepon["Nida"] = "4562345";
 
-    echo "Telpon Farid : ".$telpon['Farid'];
+    echo "Telepon Farid : ".$telepon['Farid'];
     echo "<br>";
-    echo "Telpon Farid : ".$telpon['Fikri'];
+    echo "Telepon Fikri : ".$telepon['Fikri'];
     echo "<br>";
-    echo "Telpon Farid : ".$telpon['Nida'];
+    echo "Telepon Nida : ".$telepon['Nida'];
     echo "<br>";
 ?>

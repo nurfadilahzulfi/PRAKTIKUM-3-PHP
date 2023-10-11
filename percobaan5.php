@@ -1,4 +1,4 @@
-<?php
+<?php 
     $a = pow(2,10); //fungsi perpangkatan
     $b = sqrt(100); //fungsi akar
     $c = ceil(4.25); //pembulatan keatas
